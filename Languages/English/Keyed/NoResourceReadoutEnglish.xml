@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <NoResourceReadout>No Resource Readout</NoResourceReadout>
+    <NoResourceReadout.Config.Info>You can use a hotkey to enable and disable this mod. Ctrl+R by default, see the Rimworld keybindings.</NoResourceReadout.Config.Info>
+    <NoResourceReadout.Config.ReadoutDisabled>Disable readout</NoResourceReadout.Config.ReadoutDisabled>
+    <NoResourceReadout.Config.ReadoutDisabled.Desc>When this checkbox is enabled, the readout will be hided.</NoResourceReadout.Config.ReadoutDisabled.Desc>
+</LanguageData>

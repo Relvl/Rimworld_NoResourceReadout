@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>No Resource Readout</name>
+    <author>Johnson1893</author>
+    <packageId>johnson1893.no.resource.readout</packageId>
+    <url>https://github.com/Relvl/NoResourceReadout</url>
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+    <description>
+        <![CDATA[
+A little mod that completely removes the resource readout from the GUI (not just hided, FPS-friendly).
+For those people who are bothered by this like me ;]
+Can be disabled/enabled by default hotkey Ctrl+R (see keybinding settings).
+]]>
+    </description>
+    <modDependencies>
+    </modDependencies>
+    <loadAfter>
+        <li>brrainz.harmony</li>
+        <li>Ludeon.RimWorld</li>
+    </loadAfter>
+    <loadBefore>
+        <li>trinity.RuntimeGCupdated</li>
+    </loadBefore>
+    <incompatibleWith>
+		<li>Owlchemist.ToggleableReadouts</li>
+    </incompatibleWith>
+</ModMetaData>

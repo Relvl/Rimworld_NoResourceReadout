@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<KeyBindingDef>
+		<category>NoResourceReadoutKeyCat</category>
+		<defName>NoResourceReadoutEnabled</defName>
+		<label>Toggle Enabled (Ctrl+KEY)</label>
+		<defaultKeyCodeA>R</defaultKeyCodeA>
+	</KeyBindingDef>
+</Defs>

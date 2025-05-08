@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <NoResourceReadout>No Resource Readout</NoResourceReadout>
+    <NoResourceReadout.Config.Info>Вы можете использовать быстрые клавиши, чтобы включить и выключить этот мод. По умолчанию Ctrl+R, см. настройки управления Римворлда.</NoResourceReadout.Config.Info>
+    <NoResourceReadout.Config.ReadoutDisabled>Выключить список ресурсов</NoResourceReadout.Config.ReadoutDisabled>
+    <NoResourceReadout.Config.ReadoutDisabled.Desc>Когда эта галочка установлена, список ресурсов будет скрыт.</NoResourceReadout.Config.ReadoutDisabled.Desc>
+</LanguageData>
